@@ -8,4 +8,4 @@ Here you can see my completed projects.
 Thank you.
 
 
-This is a repository to hold my professional technical writing portfolio to be viewed by potential employers. 
+This is a repository to hold my professional technical writing portfolio. 
